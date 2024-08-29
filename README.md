@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cory-greeno
 - 👀 I’m interested in engineering, coding, video games, music, and many other things
-- 🌱 I’m currently learning python, and I am an apprentice electrician
+- 🌱 I’m currently learning FileMaker, HTML, CSS, & JavaScript
 - 💞️ I’m looking to collaborate on any projects that I am deemed useful for
 - 📫 How to reach me: cama.greeno.eng47@gmail.com
 
